@@ -1,4 +1,12 @@
 # grouprepo
+<<<<<<< HEAD
+This is gretchens group repo.
+
+
+
+Cut my life into Pizza, this is my Pasta Store!
+ 
+=======
 This is gretchens group repo. 
 test 2
 test 3
@@ -17,3 +25,4 @@ Gus
 Kerstin
 Aleksandra
 Stefan
+>>>>>>> 3a3ca2d8a095019e922680afc268645f0db1ee5c
